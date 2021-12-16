@@ -1,6 +1,8 @@
 def my_superfunction():
+    print('wtf')
+    print("ok, merge this")
     print('i do nothing')
-
+    #so_yeah
 
 def main():
     print('My first git program')
