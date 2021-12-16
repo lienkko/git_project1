@@ -2,8 +2,7 @@ def my_superfunction():
     print('wtf')
     print("ok, merge this")
     print('i do nothing')
-    #so_yeah
-
+    #so yeah, we connected this
 def main():
     print('My first git program')
     print('And I change it every day')
