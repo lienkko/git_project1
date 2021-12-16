@@ -1,5 +1,6 @@
 def my_superfunction():
     print('wtf')
+    print("ok, merge this")
 
 
 def main():
